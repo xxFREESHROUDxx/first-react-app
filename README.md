@@ -1,2 +1,2 @@
 ### First React App
-- **Author** : `Baibhav KC`
+- **Author** : `Baibhav K.C`
